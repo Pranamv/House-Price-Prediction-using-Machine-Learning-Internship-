@@ -2,7 +2,7 @@
 
 A Machine Learning-powered real estate analytics platform that predicts residential property prices using historical housing data and advanced predictive modeling. The application is built with **Python, Scikit-Learn, Streamlit, and Plotly**, providing users with real-time property valuation, investment analysis, EMI estimation, future price forecasting, property comparison, and interactive market insights.
 
-The project utilizes the *Gradient Boosting Regressor** trained on the King County Housing Dataset to generate accurate house price predictions based on property characteristics such as living area, lot size, bedrooms, bathrooms, construction grade, condition, location, waterfront access, and neighborhood features.
+The project utilizes the *Gradient Boosting Regressor** trained on the King County Housing Dataset to generate accurate house price predictions based on property characteristics such as living area, lot size, bedrooms, bathrooms, construction grade, condition, location, waterfront access, and neighborhood features..
 
 ## 🚀 Features
 
