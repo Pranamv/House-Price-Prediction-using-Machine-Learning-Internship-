@@ -4,7 +4,7 @@ A Machine Learning-powered real estate analytics platform that predicts resident
 
 The project utilizes the *Gradient Boosting Regressor** trained on the King County Housing Dataset to generate accurate house price predictions based on property characteristics such as living area, lot size, bedrooms, bathrooms, construction grade, condition, location, waterfront access, and neighborhood features.
 
-## 🚀 Features.
+## 🚀 Features..
 
 ### 🏠 House Price Prediction
 - Predicts house prices in real time.
